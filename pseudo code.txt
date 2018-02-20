@@ -1,0 +1,23 @@
+Define variables
+    var word
+    var possibleWords
+    var userInput
+    var guess
+    var incorrectGuess
+    var chances
+
+What Do You Want It To Do?
+    Select a random word from array
+    Identify number of letters in the word
+    Create Inputs = to Number of Letters in Current word
+    Identify userInput
+    Depending on userInput print guess/incorrectGuess into appropriate location
+    If correct continue, Else Reduce number of chances by 1
+    If chances = 0 print Gameover and repeat, Else print Congrats you solved the word
+
+What Do You Want To See?
+    Length of word to guess
+    Number of chances remaining
+    Letters guessed correctly or incorrectly
+    
+    
